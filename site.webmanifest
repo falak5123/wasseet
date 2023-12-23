@@ -1,0 +1,23 @@
+   {
+    "name": "Wasseet",
+    "short_name": "Wasseet",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuN3-kWDGhbHXXDxuwEKddEyep7IvqOpWQB8QjTVWyRxAdMt4MMf3uaTWgslJ8eonbHLC-1nQnVwTpNlbAfyJJHHz1PYH-Jo4SCs3kOw1UcYoEmvR7QnYBsu_tC_-cdeh6cpYrHBDxeYNp5DYsbcwcpHNZgMandijfwlhNtihP1FKZTnPrfFLl1ZHrmnY/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx9i7Hdu316iv7mLJ3pL5NL4VXrPlqwA1BLOEP5oM9zAODk7M0OWchdVV2rs9t7KR5HwD_VBuGUhSB88QHIeGczvDaHlg9wXaP5Zx6WQHurCwN_FAb58odDQv71LsXLtyhD0HpuYwVyy4G1gewp3R8YUAah-_HvX8vMNi5xV3KNog233QbY4twZaDE9Ew/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://jo.wasseet.xyz"
+}
